@@ -122,3 +122,7 @@ AI tools like ChatGPT and Gemini were used for:
 -   README formatting and documentation.
 -   Generating the avatar image.
 -   Suggesting UX improvements like the keyboard-safe layout.
+
+
+## 📱 Download APK
+- ➡️ [Download Jiji.apk](https://github.com/Aayush0214/learn-with-jiji/releases)
