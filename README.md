@@ -61,7 +61,7 @@ This project uses the BLoC pattern for state management, with features including
 
 The UI is implemented based on the design image provided with the assignment.
 
-<img src="assets/images/screenshot.png" alt="App Screenshot" width="500"/>
+<img src="assets/images/screenshot.png" alt="App Screenshot" width="300"/>
 
 ## 🧬 Technical Stack
 
@@ -84,7 +84,7 @@ Before you begin, ensure you have the following installed:
 
 1.  **Clone the repository**
     ```bash
-    git clone <your_repo_url>
+    git clone <https://github.com/Aayush0214/learn-with-jiji.git>
     cd <project_folder>
     ```
 
