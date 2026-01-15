@@ -43,6 +43,7 @@ This project uses the BLoC pattern for state management, with features including
 -   ✔ Loading state
 -   ✔ Loaded state
 -   ✔ Error state (with timestamp to re-trigger snackbars)
+
 -   ✔ Clean event-to-state transitions
 
 ## 🎯 Features Delivered
@@ -60,7 +61,7 @@ This project uses the BLoC pattern for state management, with features including
 
 The UI is implemented based on the design image provided with the assignment.
 
-![App Screenshot](assets/images/screenshot.png)
+<img src="assets/images/screenshot.png" alt="App Screenshot" width="500"/>
 
 ## 🧬 Technical Stack
 
