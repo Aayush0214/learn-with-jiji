@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:jiji/features/auth/presentation/screens/login_screen.dart';
 import 'package:jiji/features/jiji/presentation/bloc/jiji_bloc.dart';
-import 'features/jiji/presentation/pages/jiji_landing_page.dart';
 
 void main() {
   runApp(
@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
           debugShowCheckedModeBanner: false,
           themeMode: ThemeMode.light,
           theme: ThemeData(useMaterial3: true, scaffoldBackgroundColor: Colors.white.withValues(alpha: 0.965)),
-          home: const JijiLandingPage(),
+          home: const LoginScreen(),
         );
       },
     );
